@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a stat system for unity and other cool c# projects!
+🔭 I’m currently working on a StatsPlus, a cool calculation package for unity and other c# projects!
+
 🌱 I’m currently learning C++
+
 👯 I’m looking to collaborate on innovative game projects
+
 📫 How to reach me: karl-wenzel@gmx.de
+
 <!--
 **karl-wenzel/karl-wenzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
