@@ -1,10 +1,8 @@
 ### Hello there 👋
 
-🔭 I’m currently working on a StatsPlus, a cool calculation package for unity and other c# projects!
+🔭 I’m currently working on my Bachelor thesis
 
-🌱 I’m currently learning C++
-
-👯 I’m looking to collaborate on innovative game projects
+🌱 I’m currently learning NodeJs
 
 📫 How to reach me: karl-wenzel@gmx.de
 
