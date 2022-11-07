@@ -1,4 +1,4 @@
-### Hello there 👋 General Kenobi
+### Hello there 👋
 
 🔭 I’m currently working on a StatsPlus, a cool calculation package for unity and other c# projects!
 
