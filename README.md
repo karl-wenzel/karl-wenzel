@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-🔭 I’m currently working on my Bachelor thesis
+🔭 I’m currently working on Trick Or Beat Digital
 
-🌱 I’m currently learning NodeJs
+🌱 I’m currently learning Rust
 
 📫 How to reach me: karl-wenzel@gmx.de
 
