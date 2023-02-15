@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Trick Or Beat Digital
 
-🌱 I’m currently learning Rust
+🌱 I’m currently learning Rust and/or Unity Editor Scripting
 
 📫 How to reach me: karl-wenzel@gmx.de
 
