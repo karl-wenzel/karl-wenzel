@@ -2,6 +2,10 @@
 
 📫 How to reach me: karl-wenzel@gmx.de
 
+Currently working on TrickOrBeat Digital, the digital online version of the famous card game!
+
+Check it out at: [www.trick-or-beat.de](https://www.trick-or-beat.de/)
+
 <!--
 **karl-wenzel/karl-wenzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
